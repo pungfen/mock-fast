@@ -1,0 +1,19 @@
+{
+	"pluginName": "Mock",
+	"description": "便捷的Mock你的数据",
+	"author": "pung",
+  "homepage": "https://github.com/pungfen/mock-fast",
+	"main": "dist/index.html",
+	"version": "0.0.1",
+	"logo": "logo.png",
+	"features": [
+		{
+		  "code": "mock",
+		  "explain": "mock your data",
+			"cmds":["mock", "Mock"]
+		}
+	],
+	"pluginSetting": {
+    "single": true
+	}
+}
